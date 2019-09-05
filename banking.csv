@@ -1,0 +1,250 @@
+Account,Product,Region,Revenue
+Axis Bank,FBB,North,520
+HSBC,FBB,South,187
+SBI,FBB,East,566
+ICICI,FBB,West,151
+Bandhan Bank,FBB,West,276
+HDFC Bank,FBB,East,592
+Axis Bank,SIMO,North,200
+HSBC,SIMO,South,300
+SBI,SIMO,East,100
+ICICI,SIMO,West,100
+HDFC Bank,SIMO,East,300
+Bandhan Bank,SIMO,West,200
+HDFC Bank,SSB,North,3575
+Axis Bank,SSB,South,4642
+HSBC,SSB,East,3721
+SBI,SSB,West,4980
+ICICI,SSB,West,3819
+Bandhan Bank,BIL,North,34000
+Axis Bank,BIL,South,23000
+HSBC,BIL,East,12000
+SBI,BIL,West,11500
+ICICI,BIL,West,10000
+Bandhan Bank,BIL,North,12000
+HDFC Bank,BIL,South,9900
+Axis Bank,FBB,East,408
+HSBC,FBB,West,221
+SBI,FBB,West,219
+ICICI,FBB,North,262
+HDFC Bank,FBB,South,494
+Bandhan Bank,FBB,West,107
+HDFC Bank,SIMO,North,200
+Axis Bank,SIMO,South,300
+HSBC,SIMO,East,400
+SBI,SIMO,West,300
+ICICI,SIMO,West,100
+Bandhan Bank,SIMO,North,200
+Axis Bank,SSB,South,2508
+HSBC,SSB,West,3322
+SBI,SSB,North,4223
+ICICI,SSB,South,2509
+Bandhan Bank,SSB,North,1916
+HDFC Bank,BIL,South,15773
+Axis Bank,BIL,East,23462
+HSBC,BIL,West,17315
+SBI,BIL,West,22514
+ICICI,BIL,North,12948
+HDFC Bank,BIL,South,13303
+Bandhan Bank,BIL,East,10478
+HDFC Bank,FBB,West,476
+Axis Bank,FBB,West,125
+HSBC,FBB,North,238
+SBI,FBB,South,241
+ICICI,FBB,East,261
+Bandhan Bank,FBB,West,598
+Axis Bank,SIMO,West,358
+HSBC,SIMO,North,105
+SBI,SIMO,South,362
+ICICI,SIMO,West,365
+HDFC Bank,SIMO,West,252
+Bandhan Bank,SIMO,North,306
+HDFC Bank,SSB,South,1400
+Axis Bank,SSB,East,1550
+HSBC,SSB,West,1650
+SBI,SSB,West,1400
+ICICI,SSB,North,1300
+Bandhan Bank,BIL,South,13016
+Axis Bank,BIL,West,25188
+HSBC,BIL,North,11075
+SBI,BIL,South,21111
+SBI,BIL,East,20843
+ICICI,BIL,West,24415
+HDFC Bank,BIL,West,28067
+Bandhan Bank,FBB,North,240
+HDFC Bank,FBB,South,458
+Axis Bank,FBB,West,478
+HSBC,FBB,North,320
+SBI,FBB,South,373
+ICICI,FBB,North,453
+Bandhan Bank,SIMO,South,174
+Axis Bank,SIMO,East,142
+HSBC,SIMO,West,416
+SBI,SIMO,West,471
+ICICI,SIMO,North,300
+HDFC Bank,SIMO,South,221
+Bandhan Bank,SSB,East,1600
+HDFC Bank,SSB,West,1500
+Axis Bank,SSB,West,1600
+HSBC,SSB,North,1750
+SBI,SSB,South,1850
+ICICI,BIL,East,23545
+Bandhan Bank,BIL,West,22020
+Axis Bank,BIL,West,23678
+HSBC,BIL,North,18831
+SBI,BIL,South,10723
+SBI,BIL,East,19677
+ICICI,BIL,West,17711
+HDFC Bank,FBB,West,388
+Bandhan Bank,FBB,North,180
+HDFC Bank,FBB,South,129
+Axis Bank,FBB,East,427
+HSBC,FBB,West,260
+SBI,FBB,West,132
+ICICI,SIMO,North,409
+Bandhan Bank,SIMO,South,434
+Axis Bank,SIMO,West,473
+HSBC,SIMO,North,231
+SBI,SIMO,South,297
+ICICI,SIMO,East,253
+HDFC Bank,SSB,West,3198
+Bandhan Bank,SSB,West,2783
+HDFC Bank,SSB,North,3503
+Axis Bank,SSB,South,4261
+HSBC,SSB,West,2216
+SBI,BIL,North,13467
+ICICI,BIL,South,25012
+Bandhan Bank,BIL,North,12370
+Axis Bank,BIL,South,10260
+HSBC,BIL,East,14176
+SBI,BIL,West,26379
+SBI,BIL,West,21528
+ICICI,FBB,North,153
+HDFC Bank,FBB,South,288
+Bandhan Bank,FBB,East,238
+HDFC Bank,FBB,West,342
+Axis Bank,FBB,West,570
+HSBC,FBB,North,266
+SBI,SIMO,South,487
+ICICI,SIMO,East,123
+Bandhan Bank,SIMO,West,449
+Axis Bank,SIMO,West,450
+HSBC,SIMO,North,107
+SBI,SIMO,South,223
+ICICI,SSB,East,1235
+HDFC Bank,SSB,West,2656
+Bandhan Bank,SSB,West,2756
+HDFC Bank,SSB,North,1856
+Axis Bank,SSB,South,1918
+HSBC,BIL,East,28671
+SBI,BIL,West,23803
+ICICI,BIL,West,27096
+Bandhan Bank,BIL,North,15800
+Axis Bank,BIL,South,23262
+HSBC,BIL,West,29250
+SBI,BIL,North,27615
+SBI,FBB,South,572
+ICICI,FBB,East,438
+HDFC Bank,FBB,West,495
+Bandhan Bank,FBB,West,147
+HDFC Bank,FBB,North,267
+Axis Bank,FBB,South,214
+HSBC,SIMO,West,292
+SBI,SIMO,North,451
+ICICI,SIMO,South,258
+Bandhan Bank,SIMO,North,432
+Axis Bank,SIMO,South,275
+HSBC,SIMO,East,288
+SBI,SSB,West,3375
+ICICI,SSB,West,2049
+HDFC Bank,SSB,North,1487
+Bandhan Bank,SSB,South,3255
+HDFC Bank,SSB,East,2675
+Axis Bank,BIL,West,23820
+HSBC,BIL,West,21008
+SBI,BIL,North,22969
+ICICI,BIL,South,19958
+Bandhan Bank,BIL,East,25544
+Axis Bank,BIL,West,22431
+HSBC,BIL,West,19386
+SBI,FBB,North,474
+SBI,FBB,South,179
+ICICI,FBB,East,109
+HDFC Bank,FBB,West,188
+Bandhan Bank,FBB,West,428
+HDFC Bank,FBB,North,192
+Axis Bank,SIMO,South,323
+HSBC,SIMO,East,276
+SBI,SIMO,West,313
+ICICI,SIMO,West,408
+Bandhan Bank,SIMO,North,238
+Axis Bank,SIMO,South,136
+HSBC,SSB,West,4290
+SBI,SSB,North,3621
+ICICI,SSB,South,3035
+HDFC Bank,SSB,East,3583
+Bandhan Bank,SSB,West,1895
+HDFC Bank,BIL,West,13671
+Axis Bank,BIL,North,23037
+HSBC,BIL,South,26304
+SBI,BIL,West,10542
+ICICI,BIL,North,25514
+Bandhan Bank,BIL,South,12538
+Axis Bank,BIL,North,25685
+HSBC,FBB,South,497
+SBI,FBB,East,569
+SBI,FBB,West,597
+ICICI,FBB,West,228
+HDFC Bank,FBB,North,132
+Bandhan Bank,FBB,South,163
+HDFC Bank,SIMO,East,317
+Axis Bank,SIMO,West,123
+HDFC Bank,SIMO,West,319
+SBI,SIMO,North,346
+ICICI,SIMO,South,366
+Bandhan Bank,SIMO,East,348
+Axis Bank,SSB,West,2402
+HSBC,SSB,West,1278
+SBI,SSB,North,3833
+ICICI,SSB,South,4811
+HDFC Bank,SSB,East,1262
+Bandhan Bank,BIL,West,15626
+HDFC Bank,BIL,West,28584
+Axis Bank,BIL,North,24621
+HSBC,BIL,South,19720
+SBI,BIL,East,17295
+ICICI,BIL,West,21353
+HDFC Bank,BIL,West,19101
+Axis Bank,FBB,North,299
+HSBC,FBB,South,414
+SBI,FBB,West,534
+SBI,FBB,North,137
+ICICI,FBB,South,436
+HDFC Bank,FBB,East,353
+Bandhan Bank,SIMO,West,207
+HDFC Bank,SIMO,West,237
+Axis Bank,SIMO,North,148
+HSBC,SIMO,South,359
+SBI,SIMO,West,422
+ICICI,SIMO,North,222
+Bandhan Bank,SSB,South,2681
+Axis Bank,SSB,North,1455
+HSBC,SSB,South,4359
+HDFC Bank,SSB,East,4642
+ICICI,SSB,West,2361
+HDFC Bank,BIL,West,12000
+Bandhan Bank,BIL,North,13000
+HDFC Bank,BIL,South,11000
+Axis Bank,BIL,East,9850
+HSBC,BIL,West,11300
+SBI,BIL,West,17300
+ICICI,BIL,North,25000
+Bandhan Bank,FBB,South,512
+Axis Bank,FBB,East,555
+HSBC,FBB,West,376
+SBI,FBB,West,514
+SBI,FBB,North,378
+Axis Bank,FBB,South,145
+HSBC,SIMO,East,238
+SBI,SIMO,West,305
+ICICI,SIMO,West,266
